@@ -1,4 +1,4 @@
-# CoderDost : React Tic Tac Toe with Redux
+React Tic Tac Toe with Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
